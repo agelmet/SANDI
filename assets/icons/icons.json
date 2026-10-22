@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/brand/sandi-favicon.svg"
+ },
+ "source_md5": "8ae1a7081915337b91daa9157f2a1834",
+ "version": "2c07a32c",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "c80ec0d2fd3a2a56662797d3058a661c"
+ ],
+ "made": "2026-10-22"
+}
