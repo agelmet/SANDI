@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /brand.html
+Disallow: /card.html
 
-Sitemap: https://sandi-events.gr/sitemap.xml
+Sitemap: https://sandievents.com/sitemap.xml
