@@ -1,6 +1,6 @@
 {
- "name": "Sandi Events",
- "short_name": "Sandi Events",
+ "name": "Sandi Moments",
+ "short_name": "Sandi Moments",
  "start_url": "./",
  "display": "standalone",
  "background_color": "#FBF8F2",
